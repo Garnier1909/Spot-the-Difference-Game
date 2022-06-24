@@ -8,5 +8,5 @@
 3. 全ての間違い探しが終了すると、結果発表が表示されます。Qキーを押すとスタート画面に戻り、最初からやり直せます。
 
 
-【クレジット】
+【クレジット】  
 音楽 ： MusMus (https://musmus.main.jp/) , 甘茶の音楽工房(https://amachamusic.chagasi.com/) , OtoLogic(https://otologic.jp)
