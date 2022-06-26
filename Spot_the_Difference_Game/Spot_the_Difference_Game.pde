@@ -1,4 +1,4 @@
-import ddf.minim.*; // minimライブライをインポート
+import ddf.minim.*; // minimライブラリをインポート
 Minim minim; // minim型の変数
 AudioPlayer correctsound, wrongsound, opening, ending;
 MyImage[] mi = new MyImage[5]; // MyImageクラスの myimage オブジェクトを格納する変数を宣言
