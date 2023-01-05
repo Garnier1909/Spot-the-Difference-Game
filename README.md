@@ -9,6 +9,3 @@
 
 **【クレジット】**  
 音楽 ： MusMus (https://musmus.main.jp/) , 甘茶の音楽工房(https://amachamusic.chagasi.com/) , OtoLogic(https://otologic.jp)
-
-
-[間違い探し.pdf](https://github.com/Garnier1909/Spot-the-Difference-Game/files/10350435/default.pdf)
