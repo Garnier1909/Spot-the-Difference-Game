@@ -1,6 +1,6 @@
 # 間違い探しゲーム
 ![間違い探し_ページ_1](https://user-images.githubusercontent.com/91712904/210731753-36a3681d-ef08-495d-bf34-fb417eff392a.jpg)
-<img src="[***画像のURL***](https://user-images.githubusercontent.com/91712904/210731753-36a3681d-ef08-495d-bf34-fb417eff392a.jpg)" height="500px">
+<img src="https://user-images.githubusercontent.com/91712904/210731753-36a3681d-ef08-495d-bf34-fb417eff392a.jpg" height="500px">
 
 ![間違い探し_ページ_2](https://user-images.githubusercontent.com/91712904/210731764-c138f322-1fe8-4e24-a4c7-0717331443e4.jpg)
 
